@@ -1,0 +1,5 @@
+C:\Users\alex\Desktop\StrategyAssignment\StrategyScenario\StrategyAssignment\bin\Debug\StrategyAssignment.exe.config
+C:\Users\alex\Desktop\StrategyAssignment\StrategyScenario\StrategyAssignment\bin\Debug\StrategyAssignment.exe
+C:\Users\alex\Desktop\StrategyAssignment\StrategyScenario\StrategyAssignment\bin\Debug\StrategyAssignment.pdb
+C:\Users\alex\Desktop\StrategyAssignment\StrategyScenario\StrategyAssignment\obj\Debug\StrategyAssignment.exe
+C:\Users\alex\Desktop\StrategyAssignment\StrategyScenario\StrategyAssignment\obj\Debug\StrategyAssignment.pdb
